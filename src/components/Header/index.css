@@ -1,0 +1,37 @@
+.HeaderContainer {
+  padding: 15px 25px;
+  background-color: #272727;
+}
+.header-un-list {
+  margin: 0px;
+  padding: 0px;
+}
+.home-jobs-container {
+  width: 100px;
+}
+.headerStraight {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.listHeader {
+  list-style-type: none;
+}
+.headerLogo {
+  height: 25px;
+}
+.link {
+  text-decoration: none;
+  color: #ffffff;
+  margin: 0px 10px;
+  font-weight: 600;
+}
+.logoutBtn {
+  background-color: #6366f1;
+  color: #ffffff;
+  font-family: 'roboto';
+  border-radius: 3px;
+  outline: none;
+  border: none;
+  padding: 3px 10px;
+}

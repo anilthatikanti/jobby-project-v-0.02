@@ -1,0 +1,27 @@
+.HomeContainer {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  height: 100vh;
+  background-size: cover;
+}
+.heading {
+  color: #ffffff;
+}
+.informationContainer {
+  color: #ffffff;
+  padding: 50px;
+  width: 60%;
+}
+.homeParagraph {
+  color: #ffffff90;
+}
+
+.homeBtn {
+  background-color: #6366f1;
+  color: #ffffff;
+  font-family: 'roboto';
+  border-radius: 3px;
+  outline: none;
+  border: none;
+  padding: 7px 10px;
+  margin: 30px 0px;
+}
